@@ -1,0 +1,25 @@
+['battery', 'backup']
+['life', 'battery']
+['camera', 'quality']
+['gaming', 'experience']
+['finger', 'print']
+['finger', 'sensor']
+['reader', 'fingerprint']
+['fingerprint', 'sensor']
+['mobile', 'price']
+['money', 'value']
+['pro', 'note']
+['redmi', 'note']
+['range', 'price']
+['segment', 'price']
+['print', 'sensor']
+['redmi', 'pro']
+battery
+camera
+mobile
+price
+problem
+processor
+product
+quality
+redmi

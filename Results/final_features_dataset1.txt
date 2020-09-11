@@ -1,0 +1,19 @@
+['battery', 'backup']
+['life', 'battery']
+['budget', 'phone']
+['camera', 'quality']
+['finger', 'print']
+['issue', 'heating']
+['money', 'value']
+['pro', 'note']
+['redmi', 'note']
+['price', 'phone']
+['range', 'price']
+battery
+camera
+issue
+phone
+price
+problem
+product
+quality
