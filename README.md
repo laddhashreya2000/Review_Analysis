@@ -5,7 +5,7 @@ rapidly which gives rise to the need to automating the process of reading the re
 views and drawing meaningful summaries from the reviews which would help not
 only the customers to make decisions on whether to buy the product but also to the
 manufacturer to know exactly what all things need to be improved in the existing
-product and which ones to prioritize. <\br>
+product and which ones to prioritize. <br/>
 In this project, we implemented and extended some of the existing works
 on feature extraction and sentiment analysis for better and more informative
 summarizing. We firstly extract the one word features from a set of reviews based
