@@ -11,6 +11,9 @@ the summary of the reviews. The system involves three main steps: (1) Review
 Cleaning; (2) Mining the frequent product features that have been commented on
 by the customers; (3) Identify the customer opinions and the opinion intensities for
 each product feature. A detailed project report can be found [here](Project_Report.pdf). <br/>
+<p align="center">
+  <img src="approach.png">
+</p>
 ![Approach](approach.png)
 
 
